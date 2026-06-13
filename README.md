@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Una mirada lo cambió todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
+| **Get License** | [Get a Licensing Quote for Una mirada lo cambió todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d8ebd2cfa687923f781fb2125257e2f5637a99c7e478920c636329a2340d3d17` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

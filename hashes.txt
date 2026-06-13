@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Una mirada lo cambió todo
+
+This log tracks the cryptographic history and versioning for the song **Una mirada lo cambió todo** (una-mirada-lo-cambio-todo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:28:42.089782 | `v1` | `d8ebd2cfa687923f781fb2125257e2f5637a99c7e478920c636329a2340d3d17` | `2d74c75b4255412bfa2640778bde517175605c33a3343eeba31a701eacf6d3fd` | `2026-06-13_una-mirada-lo-cambio-todo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
