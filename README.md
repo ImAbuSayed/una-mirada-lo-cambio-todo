@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Una mirada lo cambió todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
+| **Get License** | [Obtain a Music License for Una mirada lo cambió todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-mirada-lo-cambio-todo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada en la disco lo cambió todo, babe
+> El juego empieza y ya sé bien cómo se mueve
+> Tú y yo esta noche, no hay vuelta atrás, so crazy
+> El mundo gira lento cuando el deseo llueve
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
